@@ -1,0 +1,1 @@
+Create a Higher-Order Component that adds a loading spinner to a component until a specified condition is met. For instance, create an HOC that displays a loading spinner until data is fetched and displayed in a component.
